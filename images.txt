@@ -1,5 +1,13 @@
 deluan/navidrome
-
+xhofe/alist
+6053537/portainer
+adguard/adguardhome
+enwaiax/x-ui
+jeessy/ddns-go
+nginx:stable-alpine
+superng6/qbittorrentee
+teamspeak
+whyour/qinglong
 
 
 #支持私库
