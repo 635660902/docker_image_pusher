@@ -1,6 +1,6 @@
 deluan/navidrome
 xhofe/alist
-6053537/portainer
+6053537/portainer-ce
 adguard/adguardhome
 enwaiax/x-ui
 jeessy/ddns-go
