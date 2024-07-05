@@ -9,6 +9,7 @@ superng6/qbittorrentee
 teamspeak
 whyour/qinglong
 onething1/wxedge
+tiptime/ttnode
 
 
 #支持私库
