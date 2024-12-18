@@ -12,6 +12,7 @@ onething1/wxedge
 tiptime/ttnode
 lshallo/ets2-convoy-server
 centos:7
+mysql:5.7
 
 
 #支持私库
