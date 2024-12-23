@@ -13,7 +13,6 @@ tiptime/ttnode
 lshallo/ets2-convoy-server
 centos:7
 mysql:5.7
-nginx:1.8.1
 httpd
 analogic/poste.io
 
