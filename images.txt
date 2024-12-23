@@ -15,6 +15,7 @@ centos:7
 mysql:5.7
 nginx:1.8.1
 httpd
+analogic/poste.io
 
 
 #支持私库
