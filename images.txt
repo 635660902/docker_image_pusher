@@ -15,6 +15,7 @@ centos:7
 mysql:5.7
 httpd
 analogic/poste.io
+halohub/halo
 
 
 #支持私库
