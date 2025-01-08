@@ -1,4 +1,4 @@
---platform=linux/amd64 deluan/navidrome
+deluan/navidrome:develop
 xhofe/alist
 6053537/portainer-ce
 adguard/adguardhome
