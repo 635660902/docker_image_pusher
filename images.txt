@@ -16,6 +16,7 @@ mysql:5.7
 httpd
 analogic/poste.io
 halohub/halo:2.20
+adolfintel/speedtest
 
 
 #支持私库
