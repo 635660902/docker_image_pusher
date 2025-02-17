@@ -1,4 +1,4 @@
-deluan/navidrome:develop
+deluan/navidrome:latest
 xhofe/alist
 6053537/portainer-ce
 adguard/adguardhome
