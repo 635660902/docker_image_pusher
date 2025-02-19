@@ -17,6 +17,8 @@ httpd
 analogic/poste.io
 halohub/halo:2.20
 adolfintel/speedtest
+dushixiang/guacd
+dushixiang/next-terminal
 
 
 #支持私库
