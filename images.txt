@@ -1,4 +1,4 @@
-deluan/navidrome:latest
+deluan/navidrome
 xhofe/alist
 6053537/portainer-ce
 adguard/adguardhome
@@ -19,6 +19,7 @@ halohub/halo:2.20
 adolfintel/speedtest
 dushixiang/guacd
 dushixiang/next-terminal
+malaohu/mobaxterm-genkey
 
 
 #支持私库
