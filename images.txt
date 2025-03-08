@@ -1,3 +1,4 @@
+nginx:stable-alpine-perl
 --platform=linux/amd64 v2raya/v2raya
 deluan/navidrome
 xhofe/alist
