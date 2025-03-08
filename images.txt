@@ -1,3 +1,4 @@
+v2raya/v2raya
 deluan/navidrome
 xhofe/alist
 6053537/portainer-ce
@@ -20,7 +21,6 @@ adolfintel/speedtest
 dushixiang/guacd
 dushixiang/next-terminal
 malaohu/mobaxterm-genkey
-
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
