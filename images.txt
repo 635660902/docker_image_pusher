@@ -1,6 +1,5 @@
-sliamb/caddy
 caddy
---platform=linux/amd64 v2raya/v2raya
+v2raya/v2raya
 deluan/navidrome
 xhofe/alist
 6053537/portainer-ce
