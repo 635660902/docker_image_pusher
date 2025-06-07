@@ -1,3 +1,4 @@
+ghostchu/peerbanhelper
 caddy
 v2raya/v2raya
 deluan/navidrome
