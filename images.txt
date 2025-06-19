@@ -1,8 +1,8 @@
+openlistteam/openlist:beta
 ghostchu/peerbanhelper
 caddy
 v2raya/v2raya
 deluan/navidrome
-xhofe/alist
 6053537/portainer-ce
 adguard/adguardhome
 enwaiax/x-ui
