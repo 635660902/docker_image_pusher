@@ -1,4 +1,4 @@
-openlistteam/openlist:beta
+openlistteam/openlist:latest
 ghostchu/peerbanhelper
 caddy
 v2raya/v2raya
