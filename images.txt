@@ -1,3 +1,4 @@
+privoce/vocechat-server
 openlistteam/openlist:latest
 ghostchu/peerbanhelper
 caddy
