@@ -1,3 +1,4 @@
+tailscale/tailscale
 privoce/vocechat-server
 openlistteam/openlist:latest
 ghostchu/peerbanhelper
