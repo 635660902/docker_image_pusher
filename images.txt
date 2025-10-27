@@ -1,3 +1,4 @@
+mbentley/teamspeak
 lscr.io/linuxserver/duplicati:latest
 tailscale/tailscale
 privoce/vocechat-server
