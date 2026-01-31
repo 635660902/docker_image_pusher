@@ -1,3 +1,4 @@
+mzz2017/v2raya
 ancieque/ts3audiobot
 mbentley/teamspeak
 lscr.io/linuxserver/duplicati:latest
