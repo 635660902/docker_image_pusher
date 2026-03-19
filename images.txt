@@ -1,7 +1,6 @@
 homeassistant/home-assistant:stable
 mzz2017/v2raya
 ancieque/ts3audiobot
-mbentley/teamspeak
 lscr.io/linuxserver/duplicati:latest
 tailscale/tailscale
 privoce/vocechat-server
@@ -16,7 +15,7 @@ enwaiax/x-ui
 jeessy/ddns-go
 nginx:stable-alpine
 superng6/qbittorrentee
-teamspeak
+teamspeak:latest
 whyour/qinglong
 onething1/wxedge
 tiptime/ttnode
