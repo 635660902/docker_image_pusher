@@ -1,3 +1,4 @@
+openspeedtest:latest
 joyanhui/ikuai-bypass:latest
 homeassistant/home-assistant:stable
 mzz2017/v2raya
